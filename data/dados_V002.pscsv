@@ -8,7 +8,7 @@ Data Inicial: 2022-01-01
 Data Final: 2022-07-31
 Periodicidade da Medicao: Diaria
 
-Dia;Ta (max)(ÂºC);Ta (med)(ÂºC);Ta (min)(ÂºC);Ur (max)(%);Ur (med)(%);Ur (min)(%);Rg (MJ-mÂ²);Vv (m-s);ETo (mm);Prec (mm)
+Dia;Ta (max)(ÂºC);Ta (med)(ÂºC);Ta (min)(ÂºC);Ur (max)(%);Ur (med)(%);Ur (min)(%);Rg (MJ-m²);Vv (m-s);ETo (mm);Prec (mm)
 2023-06-20;27.46;22.66;19.4;97;92.1;61.1;8.95;3.33;2.69;0
 2023-06-19;30.79;25.13;19.42;92.7;91;51.12;13.66;2.8;3.61;0
 2023-06-18;31.32;24.04;18.02;98.4;79.7;44.21;17.22;1.88;3.56;0
